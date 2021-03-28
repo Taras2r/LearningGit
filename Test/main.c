@@ -10,6 +10,7 @@
 int main(void)
 {
 	printf ("Hello");
+	printf ("Master Commit");
 
 	return 1;
 }
