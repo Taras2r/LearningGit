@@ -1,7 +1,7 @@
 /*
  * main.c
  *
- *  Created on: 2 แๅ๐. 2021 ๐.
+ *  Created on: 2 รกรฅรฐ. 2021 รฐ.
  *      Author: tko
  */
 
@@ -11,6 +11,6 @@ int main(void)
 {
 	printf ("Hello");
 	printf ("Master Commit");
-
+	printf ("Master Commit2");
 	return 1;
 }
