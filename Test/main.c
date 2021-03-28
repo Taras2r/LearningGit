@@ -12,5 +12,7 @@ int main(void)
 	printf ("Hello");
 	printf ("Master Commit");
 	printf ("Master Commit2");
+	printf ("Feature1");
+	printf ("Feature2");
 	return 1;
 }
